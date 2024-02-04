@@ -1,6 +1,6 @@
 # Sample OLYMPICS DATA ANALYSIS FROM 1896 TO 2012
 About this Project?
-This is an Olympics Data Analysis Project created using Python and CSV files. It is an Exploratory Data Analysis on Olympic Games from 1896 to 2012. I analysed the dataset from the Kaggle
+This is an Olympics Data Analysis Project created using Python and CSV files. It is an Exploratory Data Analysis of Olympic Games from 1896 to 2012. I analysed the dataset from the Kaggle
 
 Olympics Data Analysis has:
 Data Cleaning and Understanding
@@ -18,7 +18,7 @@ Which player has won the most number Gold Medals of medals? (Top 5)
 In which year did India win the first Gold Medal in the Summer Olympics?
 Which event is most popular in terms of many players? (Top 5)
 Which sport has the most female Gold Medalists? (Top 5)
-My Analysis:
+
 Here are my observations from the three datasets: I'm going to group the datasets into two, i.e
 
 Summer Olympics
